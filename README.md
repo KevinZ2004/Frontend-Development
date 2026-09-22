@@ -1,2 +1,2 @@
 # Frontend-Development
-Dit is mijn persoonlijke repository
+In mijn repository documenteer ik alles wat ik heb gemaakt
